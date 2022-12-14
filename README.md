@@ -12,7 +12,7 @@ Exe-файл находится в архиве color_converter.zip. Никак�
 
 В ходе работы использовались следующие ресурсы:
 1. Файл «Формулы преобразования цветовой модели», размещенный на edufpmi на курсе ПКГ2022.
-2. Color transformation library source: 
+2. Color transformation library source: https://github.com/berendeanicolae/ColorSpace/blob/master/README.md
 
 Для разработки приложения использовались следующие библиотеки:
 1 QColorDialog, QPainter, QLabel, QLineEdit, QSlider, QGridLayout, QMessageBox для рендеринга приложения.
